@@ -104,5 +104,7 @@ int main()
     else if (jugador1vida<1) {cout<<jugador2<<" es el ganador"<<endl;}
     else if (jugador2vida<1) {cout<<jugador1<<"es el ganador"<<endl;}
 
+    cout<<" !! Eyyy github it me " <<endl;
+
     return 0;
 }
